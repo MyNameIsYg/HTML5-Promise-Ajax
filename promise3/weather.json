@@ -1,0 +1,58 @@
+[
+    {
+        "dayOfWeek":"Sunday",
+        "currDate":"27/11/2022",
+        "minTemp":11,
+        "maxTemp":17,
+        "description":"cold 🧊 ",
+        "image":"img/1.JPG"
+    },
+    {
+        "dayOfWeek":"Monday",
+        "currDate":"28/11/2022",
+        "minTemp":12,
+        "maxTemp":18,
+        "description":"Partly cloudy ⛅",
+        "image":"img/2.jpg"
+    },
+    {
+        "dayOfWeek":"Tuesday",
+        "currDate":"29/11/2022",
+        "minTemp":13,
+        "maxTemp":18,
+        "description":"cloudy ⛅",
+        "image":"img/3.jpg"
+    },
+    {
+        "dayOfWeek":"Wednesday",
+        "currDate":"30/11/2022",
+        "minTemp":14,
+        "maxTemp":19,
+        "description":"cool ⛄",
+        "image":"img/4.jpg"
+    },
+    {
+        "dayOfWeek":"Thursday",
+        "currDate":"01/12/2022",
+        "minTemp":13,
+        "maxTemp":15,
+        "description":"drizzling 💦",
+        "image":"img/5.jpg"
+    },
+    {
+        "dayOfWeek":"Friday",
+        "currDate":"02/12/2022",
+        "minTemp":11,
+        "maxTemp":16,
+        "description":"warm 🌞",
+        "image":"img/6.png"
+    },
+    {
+        "dayOfWeek":"Saturday",
+        "currDate":"03/12/2022",
+        "minTemp":10,
+        "maxTemp":15,
+        "description":"cloudy ⛅",
+        "image":"img/8.jpg"
+    }
+]

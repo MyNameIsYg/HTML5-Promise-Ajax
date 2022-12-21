@@ -1,0 +1,20 @@
+{
+    "firstName":{
+        "info":"enter your first name",
+        "warning":"Real data must be entered",
+        "error":"short text"
+    },
+    "lastName":{
+        "info":"enter your last name",
+        "warning":"Real data must be entered",
+        "error":"short text"
+    },
+    "phone":{
+        "info":"enter your phon number",
+        "warning":"Real data must be entered",
+        "error":[
+            "The phone number is too short",
+            "The phone number is too long"
+        ]
+    }
+}
